@@ -1,0 +1,29 @@
+{
+  "name": "universalscraper",
+  "version": "1.0.0",
+  "description": "scrap all website and store info into a MongoDB base",
+  "main": "univesalScraper.js",
+  "dependencies": {
+    "dom-parser": "^0.1.5",
+    "mongodb": "^2.2.31",
+    "node-getopt": "^0.2.3",
+    "request": "^2.81.0",
+    "sync-request": "^4.1.0",
+    "tor-request": "^1.0.6",
+    "wallet-address-validator": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riehli-r/SDC-HACK.git"
+  },
+  "author": "BINCZAK martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riehli-r/SDC-HACK/issues"
+  },
+  "homepage": "https://github.com/riehli-r/SDC-HACK#readme"
+}
